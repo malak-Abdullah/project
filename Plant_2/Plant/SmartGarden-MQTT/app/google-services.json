@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242043546282",
+    "firebase_url": "https://smartgarden-ui-master.firebaseio.com",
+    "project_id": "smartgarden-ui-master",
+    "storage_bucket": "smartgarden-ui-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242043546282:android:f37b5f89bbf369df",
+        "android_client_info": {
+          "package_name": "com.example.dell.smartgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242043546282-t539jljot9iqm0o4qf2nuncvjbuhjg16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.smartgarden",
+            "certificate_hash": "3ac46e06dc250ed127100354bf9fe8d217ba3693"
+          }
+        },
+        {
+          "client_id": "242043546282-46v68djj68hctpgh771rhqplo3nh62ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwOE0NrfhHkxSIRefuDgh9HzyNIcu53w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242043546282-46v68djj68hctpgh771rhqplo3nh62ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
